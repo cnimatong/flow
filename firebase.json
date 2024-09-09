@@ -1,0 +1,11 @@
+{
+    "react-native": {
+      "analytics_auto_collection_enabled": true,
+      "crashlytics_auto_collection_enabled": true,
+      "perf_auto_collection_enabled": true,
+      "database": {
+      "enabled": false
+      }     
+    }
+  }
+  
